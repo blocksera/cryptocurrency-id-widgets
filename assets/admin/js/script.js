@@ -55,6 +55,8 @@
                         'exchange-buy-sell': { w: 480, h: 226 },
                         'price-table': { w: 470, h: 406 },
                         'price-buy-sell-table': { w: 470, h: 375 },
+                        'summary': { w: 800, h: 286 },
+                        'price-strip': { w: 600, h: 82 },
                     },
                     ticker: {
                         default: { w: 1000, h: 36 }

@@ -134,6 +134,8 @@
                                     <option value="exchange-buy-sell">Exchange Buy Sell</option>
                                     <option value="price-table">Price Table</option>
                                     <option value="price-buy-sell-table">Price Buy Sell Table</option>
+                                    <option value="summary">Summary</option>
+                                    <option value="price-strip">Price Strip</option>
                                 </select>
                             </div>
                         </div>
